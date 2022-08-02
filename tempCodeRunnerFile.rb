@@ -1,0 +1,2 @@
+
+    print "Enter your move: "
